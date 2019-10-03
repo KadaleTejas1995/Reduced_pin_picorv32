@@ -1,8 +1,8 @@
 Hello ENGR - 852 students 
 
 This repository is a contribution of : 
-Dr Hamid Mahmoodi  and
-Tejas Kadale 
+Dr Hamid Mahmoodi ,
+Tejas Kadale  and other researchers in NECRL in SCI 110
 
 To use this repository for your project : 
 
