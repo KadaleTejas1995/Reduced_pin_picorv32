@@ -1,7 +1,7 @@
 Hello ENGR - 852 students 
 
 This repository is a contribution of : 
-Dr Hamid Mahmoodi 
+Dr Hamid Mahmoodi  and
 Tejas Kadale 
 
 To use this repository for your project : 
