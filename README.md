@@ -14,7 +14,7 @@ Upload all testbench files and RTL on the server in "vcs" folder  : Enter  cd as
 Upload all the files using the GUI on the left in mobaxterm or directly drag in the folders using Filezilla 
 Once you have uploaded the files ,run the three testbenches one by one  ; Refer the sample command below to run your testbench with the RTL 
 
-ex : vcs -V -sverilog -R testbench_RS.v picorv32_reducedpin.v -debug_pp  -full64 
+ex : vcs -V -sverilog -R testbench_RS.sv picorv32_reducedpin.v -debug_pp  -full64 
 
 Do this for other two files. The command will show the write memory location and memory value and also the instruction executed when memory is written (wstrb 1111)  . Check if there is any error showing in the terminal , if present please report .
 You can also view and edit the testbenches as you like and can include more operations in the testbench , to do this you need to edit the initial program memory 
